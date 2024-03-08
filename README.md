@@ -1,6 +1,6 @@
-# React Wordle
+# React Wordlish
 
-This is a clone project of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
+This is a project to produce a version of the popular word guessing game "Wordle" (c) that is able to handle different languages, wordlists. Made using React, Typescript, and Tailwind.
 
 [**Try out the demo!**](https://reactle.vercel.app/)
 
