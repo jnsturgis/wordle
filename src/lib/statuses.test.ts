@@ -35,7 +35,7 @@ describe('getGuessStatuses', () => {
       'correct',
     ])
 
-    // https://github.com/cwackerfuss/react-wordle/issues/456
+    // An edge case
     expect(getGuessStatuses('BOSSY', 'SASSY')).toEqual([
       'absent',
       'absent',
